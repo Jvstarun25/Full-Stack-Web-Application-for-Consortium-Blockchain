@@ -2,21 +2,22 @@
 <H1> Setting Up the Project
 
 
-<H1> Installing Fabcar (Blockchain)
-<H2>
+<H2> Installing Fabcar (Blockchain)
+<H3>
 
 **MAC**
-<H2> => To setup the blockchain network (fabcar) in MAC, please follow the steps mentioned below.
+<H5> => To setup the blockchain network (fabcar) in MAC, please follow the steps mentioned below.
 
 [Install fabcar on MAC](https://dev.to/capriciousrebel/getting-started-with-hyperledger-fabric-on-macos-2937/)
 
-<H2> => Bring up the test network and verify fabcar is installed and running. 
-<H2>
+<H5> => Bring up the test network and verify fabcar is installed and running. 
+<H5>
 
 <p>
-
-**Windows**
-<H2> => To setup the blockchain network (fabcar) in windows, please follow the steps mentioned 
+<H3>
+  
+**WINDOWS**
+<H5> => To setup the blockchain network (fabcar) in windows, please follow the steps mentioned 
 
     
 1. Install Ubuntu in a Virtual Machine. Instructions can be found [here](https://youtu.be/wjbbl0TTMeo).
@@ -24,17 +25,17 @@
 2. Once ubuntu is up and running follow the instructions
 [here](https://medium.com/@srpillai/step-by-step-guide-to-setup-hyperledger-v2-1-fabcar-sample-on-ubuntu-18-04-338dd39e436d) to install fabcar.
 
-<H2> => Bring up the test network and verify fabcar is installed and running. 
-<H1>
+<H5> => Bring up the test network and verify fabcar is installed and running. 
+<H4>
 
 
 **Note: Please do not skip any steps.**
 
 
        
-<H1>Create Instance in AWS for PostgreSQL
+<H2>Create Instance in AWS for PostgreSQL
 
-<H2>
+<H5>
 
 1. Install [pgAdmin](https://www.pgadmin.org/download/)
 
@@ -45,9 +46,9 @@
 4. Follow the steps to restore the SQL file (Backuped SQL file is attched) [Backup and Restore](https://hevodata.com/learn/pgadmin-backup-database/#12)
 
 
-<H1>Running the Project
+<H2>Running the Project
 
-<H2>
+<H5>
 
 1. Before starting the project make sure 
     
